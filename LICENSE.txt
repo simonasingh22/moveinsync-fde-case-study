@@ -1,0 +1,3 @@
+This repository contains an assignment analysis prepared for the MoveInSync FDE case study.
+
+The original case-study materials, app-store content and any third-party data remain subject to their respective owners' terms and rights. This file does not grant rights to redistribute third-party materials.
