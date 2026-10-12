@@ -21,7 +21,7 @@ The recommendation prioritizes the failure points most likely to disrupt the cor
 - **Excel / spreadsheets:** data cleaning, classification and quantitative analysis
 - **ChatGPT:** analysis support, synthesis and recommendation structuring
 - **Claude:** independent analysis / synthesis cross-check
-- **Slidesgo:** final presentation design
+- **QuillBot:** final presentation design
 
 ## Honesty / limitations
 
